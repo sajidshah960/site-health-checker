@@ -2,10 +2,9 @@
     user-agent: fetch-synthetic-monitor
   method: GET
   name: fetch index page
-  url: https://fetch.com/
+  url: https://google.com/
 - headers:
     user-agent: fetch-synthetic-monitor
- git   method: GET
   name: fetch careers page
   url: https://fetch.com/careers
 - body: '{"foo":"bar"}'
